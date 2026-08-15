@@ -55,8 +55,11 @@ Customer segmentation and behavioral analysis using data-driven techniques.
 ### 🏭 Production Delay Analytics
 Analysis of production delays and operational performance to identify improvement opportunities.
 
-### 🤖 Automated Ticket Notification System
-An automation workflow for monitoring and sending ticket notifications using n8n, APIs, webhooks, and Telegram.
+### 🎟️ Automated Ticket Availability Monitor
+
+Automated n8n workflow for monitoring Ticketmaster events and sending Telegram and Email notifications when target tickets become available.
+
+🔗 [View Project](https://github.com/eslammohsenKH/Automated-Ticket-Availability-Monitor)
 
 **Tools:** Power BI · DAX · Power Query
 
