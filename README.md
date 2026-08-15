@@ -111,12 +111,11 @@ I'm open to projects involving:
 If you have a business problem that can be improved with data or automation, I'd be happy to connect.
 
 ---
-
 ## 📫 Contact
 
-**LinkedIn:** Add your LinkedIn profile here
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/eslam-mohsen12es-url/)
 
-**Email:** Add your professional email here
+**Email:** [eslammssk205@gmail.com](mailto:eslammssk205@gmail.com)
 
 ---
 
