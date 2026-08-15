@@ -41,11 +41,22 @@ n8n · REST APIs · Webhooks · Telegram
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Sales & Business Intelligence
+### 📊 Sales Revenue & Profit Analysis — Power BI
 
-Power BI dashboard focused on sales performance, KPIs, trends, products, and customer insights.
+Interactive Power BI dashboard analyzing sales performance, revenue, profitability, customers, costs, and geographic trends.
+
+🔗 [View Project](https://github.com/eslammohsenKH/Sales-Revenue-Profit-Analysis-Power-BI)
+
+### 👥 Customer Segmentation
+Customer segmentation and behavioral analysis using data-driven techniques.
+
+### 🏭 Production Delay Analytics
+Analysis of production delays and operational performance to identify improvement opportunities.
+
+### 🤖 Automated Ticket Notification System
+An automation workflow for monitoring and sending ticket notifications using n8n, APIs, webhooks, and Telegram.
 
 **Tools:** Power BI · DAX · Power Query
 
