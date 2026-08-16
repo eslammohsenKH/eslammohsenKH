@@ -49,8 +49,13 @@ Interactive Power BI dashboard analyzing sales performance, revenue, profitabili
 
 🔗 [View Project](https://github.com/eslammohsenKH/Sales-Revenue-Profit-Analysis-Power-BI)
 
-### 👥 Customer Segmentation
-Customer segmentation and behavioral analysis using data-driven techniques.
+### 🤖 Product Sales Prediction & Recommendation System
+
+Machine Learning project using Random Forest to predict whether a product is likely to sell, estimate sales probability, and generate business recommendations.
+
+**Tools:** Python · Pandas · NumPy · Scikit-learn · Excel · Random Forest
+
+🔗 [View Project](https://github.com/eslammohsenKH/Product-Sales-Prediction)
 
 ### 🏭 Production Delay Analytics
 Analysis of production delays and operational performance to identify improvement opportunities.
