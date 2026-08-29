@@ -132,7 +132,7 @@ If you have a business problem that can be improved with data or automation, I'd
 ---
 ## 📫 Contact
 
-**LinkedIn:** [Connect with me on LinkedIn]([linkedin.com/in/eslam-mohsen12es-url](https://www.linkedin.com/in/eslam-mohsen12es-url/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbUdwzdYaRkmayQ8xT1omow%3D%3D))
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/eslam-mohsen-75ab79354/)
 
 **Email:** [eslammssk205@gmail.com](mailto:eslammssk205@gmail.com)
 
